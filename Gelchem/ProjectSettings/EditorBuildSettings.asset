@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 5e03d79fabc33194b88f40f47ef05fef
+  - enabled: 1
+    path: Assets/Scenes/Molecules.unity
+    guid: c66c5ed2ad66f814aaa9eaca4ccde22c
+  - enabled: 0
+    path: Assets/Scenes/About.unity
+    guid: 18b55bce539d4b843bebbc699fecb0ae
+  - enabled: 0
+    path: Assets/Scenes/Elements.unity
+    guid: f571cec0d333ac34cbe2dc4da6930a62
+  - enabled: 1
+    path: Assets/Scenes/molecules/BeCl2.unity
+    guid: b5f6db318e04e0e458b348946a1f796a
+  - enabled: 1
+    path: Assets/Scenes/molecules/BF3.unity
+    guid: ab49cc78a1135ff4caa8a69646ff724a
+  - enabled: 1
+    path: Assets/Scenes/molecules/BrF3.unity
+    guid: f83d910e06a39be43b6d5182631287d2
+  - enabled: 1
+    path: Assets/Scenes/molecules/BrF5.unity
+    guid: 63d07c57bd5acb1409b1f1c05c9b46e8
+  - enabled: 1
+    path: Assets/Scenes/molecules/CH4.unity
+    guid: e5648a36727ee914694ee0df826c8bff
+  - enabled: 1
+    path: Assets/Scenes/molecules/ClF3.unity
+    guid: 149fb26c93ef8a148b08efda49bedbce
+  - enabled: 1
+    path: Assets/Scenes/molecules/ClF5.unity
+    guid: b30ebd9194b472c4795e0ecf9b951bc0
+  - enabled: 1
+    path: Assets/Scenes/molecules/ClO4.unity
+    guid: 5aad67bad0fb31c4ab3b57939705c374
+  - enabled: 1
+    path: Assets/Scenes/molecules/CO2.unity
+    guid: f4ac933b4fd2a6447abac841bfbeefbc
+  - enabled: 1
+    path: Assets/Scenes/molecules/CO3.unity
+    guid: 25032f7eaf475b5459972d96817e7841
+  - enabled: 1
+    path: Assets/Scenes/molecules/H2O.unity
+    guid: 43e9bcc59bbd2984c80e08a3e400fafd
+  - enabled: 1
+    path: Assets/Scenes/molecules/HF.unity
+    guid: 983359bdb94ee5446ae6dc58e4e77a51
+  - enabled: 1
+    path: Assets/Scenes/molecules/HgCl2.unity
+    guid: e10ef29206d2baf4693c29fe89cbc269
+  - enabled: 1
+    path: Assets/Scenes/molecules/I3.unity
+    guid: 9d6effd1f7d24b44ba2d1c8c157f4e56
+  - enabled: 1
+    path: Assets/Scenes/molecules/IF7.unity
+    guid: 7cbdbb432cf08194d9eced9a987b0041
+  - enabled: 1
+    path: Assets/Scenes/molecules/NH3.unity
+    guid: ff460beb7a3a4eb40bcc4b6169967b53
+  - enabled: 1
+    path: Assets/Scenes/molecules/NO2.unity
+    guid: fd4568fc8853be948bb42e432e3af8ff
+  - enabled: 1
+    path: Assets/Scenes/molecules/NO3.unity
+    guid: bdd65dbe5f4992340a99ea5bbf711df7
+  - enabled: 1
+    path: Assets/Scenes/molecules/O2.unity
+    guid: 0f3d27f14bdcd384881f45da865b3a09
+  - enabled: 1
+    path: Assets/Scenes/molecules/O3.unity
+    guid: 3be0b0ddfe1e0584f9ed015ccad66655
+  - enabled: 1
+    path: Assets/Scenes/molecules/OF2.unity
+    guid: a2490e377a475a64699bfbcc9716599f
+  - enabled: 1
+    path: Assets/Scenes/molecules/PCl3.unity
+    guid: d580584c5d9ca284cab9e7199aa8241c
+  - enabled: 1
+    path: Assets/Scenes/molecules/PCl5.unity
+    guid: 4f2a2849e15517e4ba16bf25d2b1ab6e
+  - enabled: 1
+    path: Assets/Scenes/molecules/PO4.unity
+    guid: 3fd3fd3923cecf94086045e945ad6bea
+  - enabled: 1
+    path: Assets/Scenes/molecules/SF4.unity
+    guid: 95038b43a29ef1947a40d1d16c88eb7c
+  - enabled: 1
+    path: Assets/Scenes/molecules/SF6.unity
+    guid: aa274fbc1872f4842b22fdcfc6b0bfc4
+  - enabled: 1
+    path: Assets/Scenes/molecules/SO2.unity
+    guid: e5399f93c22a8fa4da8c748fdd608e44
+  - enabled: 1
+    path: Assets/Scenes/molecules/SO3.unity
+    guid: e649391b59e40514bbe662a6122354e4
+  - enabled: 1
+    path: Assets/Scenes/molecules/SO4.unity
+    guid: d0c9b04c46aab734589e1444385cfd52
+  - enabled: 1
+    path: Assets/Scenes/molecules/XeF2.unity
+    guid: 0592205ba9494d54cb37ea3adf80177b
+  - enabled: 1
+    path: Assets/Scenes/molecules/XeF4.unity
+    guid: 037513a7c85053e45bb97c34a55e321e
+  - enabled: 1
+    path: Assets/Scenes/molecules/XeF5.unity
+    guid: a0f9a8fbd1877d94689071319b6190c9
+  - enabled: 1
+    path: Assets/Scenes/molecules/XeF6.unity
+    guid: 935181391d2727843a788935fa75532f
+  - enabled: 1
+    path: Assets/Scenes/elements/B.unity
+    guid: 0dc4a932f4052944ca0492057b524cd2
+  - enabled: 1
+    path: Assets/Scenes/elements/Be.unity
+    guid: 34f5c97c7da2f9d44a18b7188c21d71d
+  - enabled: 1
+    path: Assets/Scenes/elements/Br.unity
+    guid: 2b454cce8ad262149b14d23d007f3f7b
+  - enabled: 1
+    path: Assets/Scenes/elements/C.unity
+    guid: d35f43a27ff1e1240bd249675f90c3b0
+  - enabled: 1
+    path: Assets/Scenes/elements/Cl.unity
+    guid: 97795a8034edd5040b406e0e05cee35e
+  - enabled: 1
+    path: Assets/Scenes/elements/F.unity
+    guid: dbeeecb8bc8f1ad41aa3a1cd9b86b942
+  - enabled: 1
+    path: Assets/Scenes/elements/H.unity
+    guid: d38b005a24254964eb8f6e08e5f7b805
+  - enabled: 1
+    path: Assets/Scenes/elements/Hg.unity
+    guid: 9fd2168eb2686a74893d34f29bd91ae4
+  - enabled: 1
+    path: Assets/Scenes/elements/I.unity
+    guid: 1c6549cd899ee1344a588102c3297f5e
+  - enabled: 1
+    path: Assets/Scenes/elements/N.unity
+    guid: 5c7a0640425e51f4995122b7075a4afe
+  - enabled: 1
+    path: Assets/Scenes/elements/O.unity
+    guid: ea5969323ffa68040aee60ce69a4e4db
+  - enabled: 1
+    path: Assets/Scenes/elements/P.unity
+    guid: 1861f3320842a0b4887f2fb966ef93eb
+  - enabled: 1
+    path: Assets/Scenes/elements/S.unity
+    guid: da7b76fc7b334c64eaf1512fed683716
+  - enabled: 1
+    path: Assets/Scenes/elements/Xe.unity
+    guid: 71d4396948d22194fab280abfca26fa5
